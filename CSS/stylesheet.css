@@ -21,6 +21,7 @@ a:active{
   color:black;
 }
 
-img{
-  max-width: 200px;
+#container{
+  max-width: 960px;
+  margin: 0 auto;
 }
