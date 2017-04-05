@@ -14,11 +14,11 @@ a:visited{
 }
 
 a:hover{
-  color: #ddd;
+  color: #black;
 }
 
 a:active{
-  color:black;
+  color:#ddd;
 }
 
 #container{
