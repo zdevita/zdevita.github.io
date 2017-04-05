@@ -32,7 +32,6 @@ main{
 
 section{
   width:470px;
-
 }
 
 #left-col{
@@ -48,4 +47,8 @@ section{
   position: absolute;
   top:0;
   right:0;
+}
+
+footer{
+  overflow: auto;
 }
