@@ -10,7 +10,7 @@ a{
 }
 
 a:visited{
-  color:white;
+  color:blue;
 }
 
 a:hover{
@@ -19,4 +19,8 @@ a:hover{
 
 a:active{
   color:black;
+}
+
+img{
+  max-width: 200px;
 }
