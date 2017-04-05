@@ -4,3 +4,19 @@ body{
   font-size: 16px;
   font-family: 'Droid Serif', sans-serif;
 }
+
+a{
+  color:#ccc;
+}
+
+a:visited{
+  color:white;
+}
+
+a:hover{
+  color: #ddd;
+}
+
+a:active{
+  color:black;
+}
