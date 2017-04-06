@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif:400,700|Oswald:400,700');
+
+body{
+  font-size: 16px;
+  font-family: 'Droid Serif', sans-serif;
+}
+
+a{
+  color:rgb(153,99,67);
+  text-decoration: none;
+}
+
+a:visited{
+  color:rgb(242,225,186);
+}
+
+a:hover{
+  color:rgb(218,123,87);
+}
+
+a:active{
+  color:rgb(232,136,82);
+}
+
+#container{
+  max-width: 960px;
+  margin: 0 auto;
+  background-color: rgb(184,207,232);
+}
+
+main{
+  overflow: auto;
+  clear: both;
+}
+
+section{
+  width:470px;
+}
+
+#left-col{
+  float:left;
+  padding-right: 6px;
+  padding-left: 4px;
+  margin-right: 9px;
+  border-right: 1px solid #000;
+}
+
+#right-col{
+  float:right;
+}
+
+h1, h2{
+  font-size: 20px;
+  font-family: 'Oswald' sans-serif;
+  font-weight: 700;
+}
+
+img{
+  position: absolute;
+  top:0;
+  right:0;
+  margin-bottom: 10px;
+  margin-right: 2px;
+  margin-top: 2px;
+  border:1px solid black;
+}
+
+article h3, article p{
+  margin: 0;
+}
+
+article{
+  margin-bottom: 25px;
+}
+
+h3{
+  font-style: italic;
+  font-weight: normal;
+}
+
+nav ul{
+  margin:0;
+  padding-left:0;
+  list-style: none;
+  text-align: center;
+}
+
+nav li{
+  display:inline-block;
+  margin-right: 100px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+
+header{
+  position: relative;
+  border-bottom: 2px solid black;
+  min-height: 133px;
+}
+
+footer{
+  margin-top: 10px;
+  font-weight: 700;
+  border-top: 2px solid black;
+  padding-left: 2px;
+  padding-bottom: 2px;
+}
