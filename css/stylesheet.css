@@ -49,10 +49,6 @@ section{
   border-right: 1px solid #000;
 }
 
-#left-col img{
-  float:left;
-}
-
 #right-col{
   float:right;
 }
@@ -71,6 +67,10 @@ img{
   margin-right: 2px;
   margin-top: 2px;
   border:1px solid black;
+}
+
+#left-col img{
+  float: left;
 }
 
 article h3, article p{
