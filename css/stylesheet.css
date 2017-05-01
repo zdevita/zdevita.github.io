@@ -120,8 +120,10 @@ footer{
 }
 
 #about img{
+margin-top:20px;
 padding-left: 50px;
 padding-top: 25px;
+border: 2px solid black;
 }
 
 nav{
