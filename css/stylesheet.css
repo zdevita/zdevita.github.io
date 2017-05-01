@@ -71,8 +71,9 @@ img{
 
 #discover img{
   position: absolute;
+  top:20px;
   bottom: 0;
-  left:0;
+  left:20px;
 }
 
 article h3, article p{
