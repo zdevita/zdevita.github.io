@@ -70,7 +70,9 @@ img{
 }
 
 #left-col img{
-  float: left;
+  position: absolute;
+  bottom: 0;
+  left:0;
 }
 
 article h3, article p{
