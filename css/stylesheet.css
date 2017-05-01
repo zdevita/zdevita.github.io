@@ -49,6 +49,10 @@ section{
   border-right: 1px solid #000;
 }
 
+#left-col img{
+  float:left;
+}
+
 #right-col{
   float:right;
 }
