@@ -115,6 +115,10 @@ footer{
   margin: 0 auto;
 }
 
+#about h2,p{
+  text-align: left;
+}
+
 #about img{
 padding-left: 50px;
 padding-top: 25px;
