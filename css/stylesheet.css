@@ -119,3 +119,8 @@ footer{
 padding-left: 50px;
 padding-top: 25px;
 }
+
+nav{
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
+}
