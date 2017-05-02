@@ -130,7 +130,7 @@ footer{
 
 #about img{
 margin-right: 150px;
-right:25px;
+right:50px;
 margin-bottom: 75px;
 margin-top: 75px;
 border: 2px solid black;
@@ -152,7 +152,7 @@ nav{
   position: absolute;
   top: 175px;
   bottom: 100px;
-  right:175px;
+  right:200px;
 }
 
 #arts, #sports, #other-works{
