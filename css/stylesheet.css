@@ -78,7 +78,7 @@ img{
   position: absolute;
   top:450px;
   bottom: 0;
-  left:200px;
+  left:300px;
 }
 
 article h3, article p{
@@ -150,8 +150,8 @@ nav{
 #other img{
   position: absolute;
   top: 175px;
-  bottom: 75px;
-  right:200px;
+  bottom: 100px;
+  right:150px;
 }
 
 #arts{
