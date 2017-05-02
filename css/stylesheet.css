@@ -147,18 +147,22 @@ nav{
 
 #creation img{
   position: absolute;
-  top:175px;
+  top:130px;
   bottom: 0;
-  left:350px;
+  left:200px;
+}
+
+#discover img{
+  position: absolute;
+  top:350px;
+  bottom:0;
+  left:200px;
 }
 
 #other img{
   position: absolute;
-  top: 175px;
-  bottom: 150px;
-  right:175px;
-  margin-right: 75px;
-  margin-bottom: 50px;
+  top: 100px;
+  right:10px;
 }
 
 #arts, #sports, #other-works{
