@@ -161,5 +161,14 @@ nav{
 #sports{
   position: relative;
   margin-left: 325px;
-  margin-top:0px;
+  margin-top:-113px;
+  padding-top:0px;
 }
+
+#other-works{
+  position: relative;
+  margin-left: 600px;
+  margin-top: -113px;
+  margin-bottom: 100px;
+  padding-right: -500px;
+  }
