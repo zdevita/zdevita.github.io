@@ -35,6 +35,7 @@ a:active{
 main{
   overflow: auto;
   clear: both;
+
 }
 
 section{
@@ -129,6 +130,7 @@ footer{
 
 #about img{
 margin-right: 150px;
+right:25px;
 margin-bottom: 75px;
 margin-top: 75px;
 border: 2px solid black;
@@ -150,14 +152,16 @@ nav{
   position: absolute;
   top: 175px;
   bottom: 100px;
-  right:150px;
+  right:175px;
 }
 
-#arts{
-  margin-left:10px;
+#arts, #sports, #other-works{
+  width: 310px;
+  margin-right:10px;
+  float: left;
 }
 
-#sports{
+/*#sports{
   position: relative;
   margin-left: 325px;
   margin-top:-113px;
@@ -170,4 +174,4 @@ nav{
   margin-top: -113px;
   margin-bottom: 100px;
   padding-right: -500px;
-  }
+  }*/
