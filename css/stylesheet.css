@@ -69,11 +69,16 @@ img{
   border:1px solid black;
 }
 
+#discover{
+  padding-top:100px;
+  margin-bottom:175px;
+}
+
 #discover img{
   position: absolute;
-  top:20px;
+  top:450px;
   bottom: 0;
-  left:20px;
+  left:250px;
 }
 
 article h3, article p{
@@ -118,16 +123,43 @@ footer{
 }
 
 #about h2,p{
-  text-align: left;
+  margin-bottom: 50px;
+  padding-left: 25px;
 }
 
 #about img{
-padding-left: 50px;
-padding-top: 25px;
+margin-left: 50px;
+margin-right: 200px;
+margin-bottom: 75px;
+margin-top: 75px;
 border: 2px solid black;
 }
 
 nav{
   border-top: 4px solid black;
   border-bottom: 4px solid black;
+}
+
+#creation img{
+  position: absolute;
+  top:175px;
+  bottom: 0;
+  left:300px;
+}
+
+#other img{
+  position: absolute;
+  top: 175px;
+  bottom: 50px;
+  right:175px;
+}
+
+#arts{
+  margin-left:10px;
+}
+
+#sports{
+  position: relative;
+  margin-left: 325px;
+  margin-top:0px;
 }
